@@ -43,9 +43,9 @@ def calculate_subnet(ip_str, subnet_str):
 # Streamlit UI
 st.title("IP Subnet Calculator")
 st.subheader("Student Information")
-st.write("Name: hatem")
-st.write("Student ID: xxxxxxx")
-st.write("Group: xx")
+st.write("Names: BEN MOKHTAR hatem GHAZLI salah eddine MATARI aimen")
+st.write("Students ID: 22223172116/222231632604/222231609505")
+st.write("Group: 3/3/2")
 
 with st.form("subnet_form"):
     col1, col2 = st.columns(2)
