@@ -50,11 +50,6 @@ Group: xx
 📄 License
 This project is licensed under the MIT License.
 
-🔥 Extra Tip
-If you want I can also generate a cool badge set (like "Built with Python", "Streamlit app", etc.) to make the README even more beautiful!
-Want me to add that too? 🎯🚀
-
-Would you also like a ready .gitignore to ignore .pyc files, .DS_Store, and .venv if you are planning to upload everything? 📁👨‍💻
 
 
 
